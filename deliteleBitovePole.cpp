@@ -1,3 +1,4 @@
+// komentar
 #include <stdio.h>
 
 int delitele(int n);
